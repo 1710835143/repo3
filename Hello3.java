@@ -9,7 +9,11 @@ public Class Hello{
 	}
 	
 	public void test(){
+
 		int i = 9;
 		i++;
+
+		
+
 	}
 }
